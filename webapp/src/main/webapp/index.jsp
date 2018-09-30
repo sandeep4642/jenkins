@@ -1,1 +1,1 @@
-New branch created
+Build When commit happens in Git
