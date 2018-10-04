@@ -1,2 +1,2 @@
 Hello, JENKINS
-Enable the auto build
+Auto build when commit occurs
