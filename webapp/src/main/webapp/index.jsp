@@ -1,3 +1,2 @@
 Hello, JENKINS
-Tag added
-.
+Build pipeline and tag created
