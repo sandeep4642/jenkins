@@ -1,2 +1,2 @@
 Prod Machine added
-Deployed using Docker
+Deployed using Ansible and docker
